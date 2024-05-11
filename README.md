@@ -1,5 +1,5 @@
 # 💫 About Me:
-Looking to utilize my technical and programming knowledge and skills in growing tech organization.
+SQA
 
 
 ## 🌐 Socials:
